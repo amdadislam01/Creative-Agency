@@ -1,7 +1,5 @@
 # Creative Agency Website 🌟
 
-![Creative Agency Screenshot](https://raw.githubusercontent.com/amdadislam01/Creative-Agency/main/screenshot.png)
-
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-blue)](https://amdadislam01.github.io/Creative-Agency/)
 [![GitHub license](https://img.shields.io/github/license/amdadislam01/Creative-Agency)](https://github.com/amdadislam01/Creative-Agency/blob/main/LICENSE)
 
@@ -30,6 +28,10 @@ A modern, responsive website template for creative agencies and digital studios.
 3. **Portfolio** - Display your best work
 4. **About** - Tell your agency's story
 5. **Contact** - Client inquiry form
+
+## Preview
+
+![Creative Agency Screenshot](https://ik.imagekit.io/yqnbhdlo4/Img/Desktop%20View.png?updatedAt=1753938487412)
 
 ## Installation 💻
 
