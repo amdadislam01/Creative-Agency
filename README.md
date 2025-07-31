@@ -16,8 +16,8 @@ A modern, responsive website template for creative agencies and digital studios.
 
 ## Technologies Used 🛠️
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **CSS Framework**: Custom (no dependencies)
+- **Frontend**: HTML5, CSS3, TailwindCss
+- **CSS Framework**: TailwindCss
 - **Icons**: Font Awesome
 - **Design**: Custom illustrations and graphics
 
